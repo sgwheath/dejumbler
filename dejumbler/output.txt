@@ -1,0 +1,5 @@
+For puzzle 1, we have the following solutions: ['gland', 'major', 'becalm', 'lawyer', 'wed ball noon']
+For puzzle 2, we have the following solutions: ['blend', 'avoid', 'cheesy', 'camera', 'bay hair hair']
+For puzzle 3, we have the following solutions: ['stash', 'rooed', 'indict', 'italic', 'cash sessions']
+For puzzle 4, we have the following solutions: ['dinky', 'agile', 'encore', 'devout', 'addition']
+For puzzle 5, we have the following solutions: ['trying', 'divert', 'seaman', 'deceit', 'shadow', 'kechel', 'needed villitis']

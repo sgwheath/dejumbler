@@ -1,0 +1,224 @@
+{
+  "puzzles": [
+    {
+    "jumbles": [
+      {
+        "letters": "nagld",
+        "circled_indices": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "letters": "ramoj",
+        "circled_indices": [
+          2,
+          3
+        ]
+      },
+      {
+        "letters": "camble",
+        "circled_indices": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "letters": "wraley",
+        "circled_indices": [
+          0,
+          2,
+          4
+        ]
+      }
+    ],
+    "final_jumble": {
+      "word_count": 3,
+      "word_lengths": [
+        3,
+        4,
+        4
+      ]
+    }
+  },
+    {
+    "jumbles": [
+      {
+        "letters": "bnedl",
+        "circled_indices": [
+          0,
+          4
+        ]
+      },
+      {
+        "letters": "idova",
+        "circled_indices": [
+          0,
+          3,
+          4
+        ]
+      },
+      {
+        "letters": "seheyc",
+        "circled_indices": [
+          1,
+          5
+        ]
+      },
+      {
+        "letters": "aracem",
+        "circled_indices": [
+          4,
+          5
+        ]
+      }
+    ],
+    "final_jumble": {
+      "word_count": 3,
+      "word_lengths": [
+        3,
+        4,
+        3
+      ]
+    }
+  },
+    {
+    "jumbles": [
+      {
+        "letters": "shast",
+        "circled_indices": [
+          0,
+          3,
+          4
+        ]
+      },
+      {
+        "letters": "doore",
+        "circled_indices": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "letters": "ditnic",
+        "circled_indices": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "letters": "catili",
+        "circled_indices": [
+          0,
+          2,
+          5
+        ]
+      }
+    ],
+    "final_jumble": {
+      "word_count": 2,
+      "word_lengths": [
+        4,
+        8
+      ]
+    }
+  },
+    {
+    "jumbles": [
+      {
+        "letters": "knidy",
+        "circled_indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "letters": "legia",
+        "circled_indices": [
+          0,
+          2
+        ]
+      },
+      {
+        "letters": "cronee",
+        "circled_indices": [
+          1,
+          3
+        ]
+      },
+      {
+        "letters": "tuvedo",
+        "circled_indices": [
+          0,
+          5
+        ]
+      }
+    ],
+    "final_jumble": {
+      "word_count": 1,
+      "word_lengths": [
+        8
+      ]
+    }
+  },
+  {
+    "jumbles": [
+      {
+        "letters": "gyrint",
+        "circled_indices": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "letters": "drivet",
+        "circled_indices": [
+          2,
+          5
+        ]
+      },
+      {
+        "letters": "snamea",
+        "circled_indices": [
+          0,
+          5
+        ]
+      },
+      {
+        "letters": "ceedit",
+        "circled_indices": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "letters": "sowdah",
+        "circled_indices": [
+          0,
+          3
+        ]
+      },
+      {
+        "letters": "elchek",
+        "circled_indices": [
+          1,
+          5
+        ]
+      }
+    ],
+    "final_jumble": {
+      "word_count": 2,
+      "word_lengths": [
+        6,
+        8
+      ]
+    }
+  }
+  ]
+}
